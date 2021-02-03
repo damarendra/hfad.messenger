@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Messenger</string>
+    <string name="hint">Masukan Text</string>
+    <string name="send">Kirim</string>
+    <string name="chooser">Kirim pesan lewat...</string>
+</resources>
