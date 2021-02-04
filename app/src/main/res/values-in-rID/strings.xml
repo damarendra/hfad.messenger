@@ -4,4 +4,5 @@
     <string name="hint">Masukan Text</string>
     <string name="send">Kirim</string>
     <string name="chooser">Kirim pesan lewat...</string>
+    <string name="to_hint">Kirim Ke</string>
 </resources>
